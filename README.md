@@ -1,17 +1,29 @@
-# lanivo
+# LANIVO GitHub Pages
 
-A new Flutter project.
+App: LANIVO — Lane Switch  
+Package: `com.lanivo.laneswitch`  
+Support email: `adampainting9@gmail.com`
 
-## Getting Started
+## Publish on GitHub Pages
 
-This project is a starting point for a Flutter application.
+1. Create a GitHub repository.
+2. Upload these files to the repository.
+3. Keep the `docs` folder exactly as provided.
+4. Go to **Settings → Pages**.
+5. Under **Build and deployment**, choose **Deploy from a branch**.
+6. Select your main branch and `/docs`.
+7. Save and wait for GitHub Pages to publish.
 
-A few resources to get you started if this is your first Flutter project:
+Your Privacy Policy URL will normally be:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+`https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/privacy.html`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Included:
+- `docs/index.html`
+- `docs/privacy.html`
+- `docs/terms.html`
+- `docs/style.css`
+- `docs/.nojekyll`
+
+Important:
+The Privacy Policy matches the current offline-first LANIVO build. Update it before release if the game later adds Firebase, backend services, accounts, cloud sync, ads, analytics, crash reporting, online multiplayer, leaderboards, purchases, or new sensitive permissions.
